@@ -1,15 +1,41 @@
 body
 {
+    
     color: black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#cabecera
+{
+    background: blue;
+    font-weight: bold;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.7);
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+ 
+}
+
+#cabecera #tagline 
+{
+    padding: 0 0 0 39em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid black;
     margin: 0 auto;
+}
+
+#post
+{
+    padding: 1em;
 }
