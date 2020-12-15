@@ -31,11 +31,12 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid black;
+
     margin: 0 auto;
 }
 
 #post
 {
+    border: 1px solid black;
     padding: 1em;
 }
