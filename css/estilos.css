@@ -40,3 +40,12 @@ body
     border: 1px solid black;
     padding: 1em;
 }
+#footer
+{
+
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: gray;
+    color:white
+}
