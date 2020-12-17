@@ -1,6 +1,6 @@
 body
 {
-    
+    background-color:#444;
     color: blue;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -21,9 +21,14 @@ body
 
 #cabecera #tagline 
 {
-    padding: 0 0 0 39em;
+
+    padding: 0 0 0 35em;
     font-weight: normal;
     font-size: 0.8em;
+}
+#cabecera #logo {
+    width: 45px;
+    background-color: darkgrey;
 }
 
 #container
